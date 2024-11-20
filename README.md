@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Renato Donadio! I'm 21 years old, i'm fro Brazil and i'm currently on the 2nd year of Information Systems.
+- 👋 Hi, I’m Renato Donadio! I'm currently 21 years old, i was born and reside in Brazil and i'm currently on the 2nd year of Information Systems.
 - I'm always looking to improve my skills and get deeper into the coding world, after all, technology fascinates me and being the curious person that i am i've always wondered how it all worked.
 - Love managing data!
 - Nulla è Reale, Tutto è Lecito.
